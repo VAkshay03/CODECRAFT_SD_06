@@ -1,3 +1,0 @@
-import os
-n = os.getcwd()
-print(type(n),n)
